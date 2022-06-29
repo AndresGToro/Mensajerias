@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "620720677625",
+    "project_id": "mensajeria-ebf32",
+    "storage_bucket": "mensajeria-ebf32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620720677625:android:70d987ee527d373d3eb828",
+        "android_client_info": {
+          "package_name": "subproyecto.proyecto.mensajeria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620720677625-uib6od5gr1j9e033qsua0mrvda7q598h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQX-udGUcvQflcidhsxC206WNO6Nk7bT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620720677625-uib6od5gr1j9e033qsua0mrvda7q598h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
