@@ -15,7 +15,8 @@ import subproyecto.proyecto.mensajeria.fragments.RatesFragment
 
 class MainActivity : ToolbarActivity() {
 
-    //
+    //probando
+    
     private var prevBottomSelected: MenuItem? = null
 
     override fun onCreate(savedInstanceState: Bundle?) {
