@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "Mensajeria"
-include ':app'
+include ':app', ':mylibrary'
