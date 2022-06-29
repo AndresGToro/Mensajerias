@@ -6,7 +6,7 @@ import androidx.appcompat.app.AppCompatActivity
 import subproyecto.proyecto.mensajeria.activities.LoginActivity
 import com.google.firebase.auth.FirebaseAuth
 
-// Login And Main Activity Flow
+// Login And Main Activity Flow sdfgh
 class MainEmptyActivity : AppCompatActivity() {
 
     private val mAuth: FirebaseAuth = FirebaseAuth.getInstance()
